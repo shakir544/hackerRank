@@ -1,3 +1,10 @@
+'''Input : n  - number of usecases
+example :
+2
+insert 1 10
+print '''
+
+
 n = int(input())
 L = []
 for iCommand in range(n):
